@@ -13,5 +13,8 @@ This is a small application that helps with creating the initial setup for new a
 2. run (if you see an error run it again)  
         npm install
 3. run  
-        npm start
+        npm start      
+ # Credits
+ A portion of the code is taken from here:  
+ https://github.com/fireship-io/javascript-millionaire/blob/main/index.js
  
