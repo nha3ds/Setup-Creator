@@ -10,8 +10,8 @@ This is a small application that helps with creating the initial setup for new a
 
 # Steps
 1. install nodejs.
-2. run (if you see an error run it again)
-    npm install.
-3. run
-    npm start
+2. run (if you see an error run it again)  
+        npm install
+3. run  
+        npm start
  
