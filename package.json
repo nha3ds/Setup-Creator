@@ -1,0 +1,21 @@
+{
+  "name": "setup-creator",
+  "description": "❤",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+	"packageWin": "pkg --output app ./"
+  },
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0"
+  },
+  "devDependencies": {
+    "pkg": "^5.4.1"
+  }
+}
